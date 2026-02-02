@@ -1,7 +1,7 @@
 import numpy as np
 
 def main():
-	val = input('''Vilken uppgift vill du kontrollera?"
+	val = input('''Vilken uppgift vill du kontrollera?
 				1: Tetraederkoll 
 				2: Rätblock och kub
 			 	3: Rotation och Volym
